@@ -4,5 +4,5 @@ function writeCards(arraynames, eventname) {
     thankYouCards.push(`Thank you, ${arraynames[i]}, for the wonderful ${eventname} gift!`);
   }
  
-  return cards;
+  return thankYouCards;
 }
