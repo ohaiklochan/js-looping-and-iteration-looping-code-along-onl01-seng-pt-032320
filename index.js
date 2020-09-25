@@ -1,8 +1,8 @@
 const gifts = ["teddy bear", "drone", "doll"];
  
-function wrapCards(gifts) {
-  for (let i = 0; i < gifts.length; i++) {
-    console.log(`Wrapped ${gifts[i]} and added a bow!`);
+function wrapCards(["Ada", "Brendan", "Ali"], "birthday") {
+  for (let i = 0; i < cards.length; i++) {
+    console.log(`Thank you, ${cards[i]}, for the wonderful birthday gift!`);
   }
  
   return gifts;
