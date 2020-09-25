@@ -7,5 +7,3 @@ function wrapCards(["Ada", "Brendan", "Ali"], "birthday") {
  
   return cards;
 }
- 
-wrapCards(cards);
